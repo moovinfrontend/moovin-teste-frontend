@@ -12,7 +12,7 @@ O tempo ideal para realização deste teste é de 3 dias. Mas vamos receber em a
 Mesmo que não consiga terminar no tempo estipulado, pedimos que envie mesmo assim, para medirmos a proficiência dos candidatos e nivelar a dificuldade deste teste.
 
 * Faça um fork desse repositório, clone para a sua máquina e crie uma branch com o seu nome completo antes de começar as alterações, senão pode ser que não consiga fazer o push;
-* Implemente o HTML/CSS das telas com base no layout que se encontra na pasta raiz;
+* Implemente o HTML/CSS das telas com base no layout que se encontra na pasta raiz: O PNG para abrir no Fireworks ou PSD. Também disponibilizamos no Adobe Assets pelo link: (https://assets2.adobe.com/link/869a07f3-46f3-4157-68ad-f9a5a7d1b449?section=extract#publinks);
 * O carrossel da vitrine e os menus abertos são opcionais e vale como ponto extra;
 * Após terminar seu teste submeta um pull request e se preferir avise por email;
 * Caso não consiga fazer o pull request, ou por qualquer outro motivo, você pode compactar o teste e enviar por email.

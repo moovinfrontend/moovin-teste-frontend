@@ -1,5 +1,5 @@
 # Teste para desenvolvedor Front-End
-> [![Logo Moovin](https://www.moovin.com.br/img/logo_moovin.png)](https://www.moovin.com.br)
+> [![Logo Moovin](https://www.moovin.com.br/logo_moovin.png)](https://www.moovin.com.br)
 >
 > Olá, nesse teste vamos analisar seus conhecimentos como desenvolvedor Front-end utilizando as tecnologias: <b>HTML, CSS, JavaScript</b><br>
 
